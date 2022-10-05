@@ -1,8 +1,24 @@
-<img width="100%" height="auto" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" height="175px"/>
+<img width="100%" height="auto" src="https://media.giphy.com/media/xQ7NKUKR2qg0jQ5uwC/giphy.gif" height="175px"/>
 
 
-## ðŸ¤˜Learn more about me here:
 
-<a target="_blank" href = "https://www.linkedin.com/in/felipe-duarte-b8bb3324a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a target="_blank" href = "https://twitter.com/DuarteJFelipe"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a target="_blank" href = "https://www.instagram.com/duarte_jfelipe/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+## 🤖 Languages and Tools:
+
+<p align="center"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/>
+    <h3 class="toolsh3" align="center">Never stop learning.</h3>
+    </p>
+
+## 🐵 Learn more about me here:
+<p align="center">
+    <a href = "https://www.linkedin.com/in/felipe-duarte-b8bb3324a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://twitter.com/DuarteJFelipe" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href = "https://www.instagram.com/duarte_jfelipe/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <p>
