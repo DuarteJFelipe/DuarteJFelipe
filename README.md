@@ -18,11 +18,9 @@
   <br/>
   <p align="center">
     <a href="#"><img alt="Camilo Valencia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DuarteJFelipe&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
   <a href="#"><img alt="Camilo Valencia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <p class="note">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+
 
 ## 🐵 Learn more about me here:
 <p align="center">
