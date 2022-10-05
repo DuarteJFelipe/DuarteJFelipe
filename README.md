@@ -1,2 +1,1 @@
-<img width="100%" height="auto" src="https://terabox.com/s/18_SYp654MmZpGbS0luJ-2Q" height="175px"/>
-
+<img width="100%" height="auto" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" height="175px"/>
