@@ -1,6 +1,6 @@
-<img width="100%" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" height="175px"/>
-
-
+<p align="center"> 
+    <img width="100%" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif"/>
+    </p>
 
 
 ## 🤖 Languages and Tools:
