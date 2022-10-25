@@ -8,6 +8,7 @@
     <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="48px"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png"/>
+    <img src="https://img.icons8.com/fluency/344/laravel.png"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/>
     <h3 class="toolsh3" align="center">Never stop learning.</h3>
