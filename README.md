@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/fluency/512/android-os.png" width="48px"/>
                                                                                      
     <h3 class="toolsh3" align="center">Never stop learning.</h3>
-                                      </p>
+                                     
   
     
 ## 📊 My Github Stats
