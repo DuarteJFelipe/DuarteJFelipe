@@ -13,7 +13,8 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/>
     <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="48px"/>
     <img src="https://img.icons8.com/fluency/512/android-os.png" width="48px"/>
-                                                                          
+                                                                             
+    <p>          
     <h3 class="toolsh3" align="center">Never stop learning.</h3>
     </p>
     
