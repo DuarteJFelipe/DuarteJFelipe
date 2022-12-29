@@ -28,5 +28,4 @@
 <p align="center">
     <a href = "https://www.linkedin.com/in/felipe-duarte-b8bb3324a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/DuarteJFelipe" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href = "https://www.instagram.com/duarte_jfelipe/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <p>
