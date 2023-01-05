@@ -31,13 +31,11 @@
 ---
 ### 📊 My Github Stats
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=DuarteJFelipe&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![simonhl14 Hub stats](https://github-readme-stats.vercel.app/api?username=DuarteJFelipe&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
    
---
+---
 ### 🐵 Learn more about me here:
 <div align="center">
     <a href = "https://www.linkedin.com/in/felipe-duarte-b8bb3324a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
