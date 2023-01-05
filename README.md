@@ -8,10 +8,6 @@
 ### About Me: 
 - 📫 How to reach me felipeduarteuts@gmail.com
 
-- <a href="https://www.linkedin.com/in/felipe-duarte-b8bb3324a/"> ![image](https://user-images.githubusercontent.com/94178040/210647222-282b239b-5be7-4554-9d1e-d7cb1c6a8ebc.png)
- My Linkedln
- </a>
-
  
 ---
 ### 🤖 Languages and Tools:
@@ -32,22 +28,19 @@
  
 
    
-    
-## 📊 My Github Stats
-
-  <br/>
-  ---
-  <p align="center">
-     [![GitHub Streak](https://streak-stats.demolab.com?user=DuarteJFelipe&theme=dark&hide_border=true)](https://git.io/streak-stats)
-      
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DuarteJFelipe&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+---
+### 📊 My Github Stats
 
 
-## 🐵 Learn more about me here:
-<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=DuarteJFelipe&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![simonhl14 Hub stats](https://github-readme-stats.vercel.app/api?username=DuarteJFelipe&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+   
+--
+### 🐵 Learn more about me here:
+<div align="center">
     <a href = "https://www.linkedin.com/in/felipe-duarte-b8bb3324a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/DuarteJFelipe" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <p>
+</div>
 
