@@ -1,7 +1,7 @@
 
 <div>
   <h1 align="center">Hey , I'm Felipe 😁👋</h1>
-  <h3 align="center">A passionate Android Developer</h3>
+  <h3 align="center">Android Developer</h3>
 </div>
 
 ---
