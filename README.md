@@ -31,11 +31,11 @@
 ---
 ### 📊 My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DuarteJfelipe&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![DuarteJFelipe GitHub Streak](https://streak-stats.demolab.com?user=DuarteJfelipe&theme=dark&hide_border=true)](https://git.io/streak-stats)
  <br>
 ![DuarteJFelipe Hub stats](https://github-readme-stats.vercel.app/api?username=DuarteJFelipe&show_icons=true&theme=dark)
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DuarteJFelipe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
    
 ---
