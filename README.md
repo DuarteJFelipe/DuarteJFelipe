@@ -1,38 +1,53 @@
+
 <div>
-  <h1 align="center">Hi, I'm Simon Hernandez</h1>
-  <h3 align="center">A passionate Back-end Developer</h3>
+  <h1 align="center">Hey , I'm Felipe 😁👋</h1>
+  <h3 align="center">A passionate Android Developer</h3>
 </div>
 
 ---
 ### About Me: 
-- 🌱 I’m currently learning Nest
+- 📫 How to reach me felipeduarteuts@gmail.com
 
-- 📫 How to reach me simonh419@gmail.com
-
-- <a href="https://www.linkedin.com/in/simon-hernandez-95b99a252/"> ![image](https://user-images.githubusercontent.com/94178040/210647222-282b239b-5be7-4554-9d1e-d7cb1c6a8ebc.png)
+- <a href="https://www.linkedin.com/in/felipe-duarte-b8bb3324a/"> ![image](https://user-images.githubusercontent.com/94178040/210647222-282b239b-5be7-4554-9d1e-d7cb1c6a8ebc.png)
  My Linkedln
  </a>
+
  
-  <h3>Languages and Tools:</h3>
+---
+### 🤖 Languages and Tools:
+
  <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest" alt="Nest" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png"/>
+    <img src="https://img.icons8.com/fluency/344/000000/laravel.png" width="48px"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="48px"/>
+    <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="48px"/>
+    <img src="https://img.icons8.com/fluency/512/android-os.png" width="48px"/>
+    <h3 class="toolsh3" align="center">Never stop learning.</h3>
  </div>
  
- ---
- ### My Stats:
- 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simonhl14&theme=dark)](https://git.io/streak-stats)
-![simonhl14 Hub stats](https://github-readme-stats.vercel.app/api?username=simonhl14&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonhl14&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   
+    
+## 📊 My Github Stats
+
+  <br/>
+  ---
+  <p align="center">
+     [![GitHub Streak](https://streak-stats.demolab.com?user=DuarteJFelipe&theme=dark&hide_border=true)](https://git.io/streak-stats)
+      
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DuarteJFelipe&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+
+
+## 🐵 Learn more about me here:
+<p align="center">
+    <a href = "https://www.linkedin.com/in/felipe-duarte-b8bb3324a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://twitter.com/DuarteJFelipe" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <p>
+
