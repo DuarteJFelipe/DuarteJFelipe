@@ -18,7 +18,10 @@
 ## 📊 My Github Stats
 
   <br/>
+ 
   <p align="center">
+     [![GitHub Streak](https://streak-stats.demolab.com?user=DuarteJFelipe&theme=dark&hide_border=true)](https://git.io/streak-stats)
+       <br/>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DuarteJFelipe&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
     <br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJFelipe&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
